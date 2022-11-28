@@ -17,7 +17,7 @@ import java.sql.SQLException;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 
-public class Le_Andy_IP_Task5b 
+public class JDBC
 {
     //Database credentials
     final static String HOSTNAME = "lee076-sql-server.database.windows.net";

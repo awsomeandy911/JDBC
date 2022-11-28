@@ -22,8 +22,8 @@ public class Le_Andy_IP_Task5b
     //Database credentials
     final static String HOSTNAME = "lee076-sql-server.database.windows.net";
     final static String DBNAME = "cs-dsa-4513-sql-db";
-    final static String USERNAME = "le0076";
-    final static String PASSWORD = "Awsomeandy911$";
+    final static String USERNAME = "user";
+    final static String PASSWORD = "password";
     
     //Database connection
     final static String URL = String.format("jdbc:sqlserver://%s:1433;database=%s;user=%s;password=%s;encrypt=true;trustServerCertificate=false;"
